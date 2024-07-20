@@ -1,0 +1,130 @@
+# Visual Studio
+.vscode/
+.vscode/*
+.vscode-test/
+
+# Rider
+.idea/
+.idea/*
+.idea/httpRequests/
+.idea/jsLibraryMappings/
+.idea/runConfigurations/
+.idea/sqlDataSources/
+.idea/sqlDialects/
+.idea/tasks/
+.idea/tasks/
+.idea/workspace/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cscache
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Rider directories
+.idea/
+.idea/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Python virtual environments
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+
+# CMake
+[Cc][Mm]ake[Bb]uild/
+[Cc][Mm]akeFiles/
+[Cc][Mm]ake[Ll]ists.txt
+
+# C++ autotools
+*.lo
+*.la
+*.al
+*.libs
+.libs
+*.so
+*.so.[0-9]*
+*.a
+*.lai
+*.slo
+*~ # Kdiff
+*~
+*.pyc # Kdiff
+*.pyo # Kdiff
+*.pyd # Kdiff
+*.pdb # VS
+*.ilk # VS
+*.idb # VS
+*.aps # VS
+*.pch # VS
+*.res # VS
+*.specs # Kdiff
+*.sbr # VS
+*.cbp # Kdiff
+*.depend # Kdiff
+*.d # Kdiff
+*.gcno # Kdiff
+*.gcda # Kdiff
+*.gcov # Kdiff
+*.BB* # Kdiff
+*.DA* # Kdiff
+*.BBG* # Kdiff
+*.CBE # Kdiff
+*.SHB # Kdiff
+*.TBP # Kdiff
+
